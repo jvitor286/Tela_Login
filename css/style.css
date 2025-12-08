@@ -137,3 +137,15 @@ button:hover {
     text-decoration: underline;
     color: #2a1b6b;
 }
+
+@media (max-width:440px) {
+    .formulario{
+        width: 280px;
+    }
+}
+
+@media (max-width:350px) {
+    .formulario{
+        width: 280px;
+    }
+}
